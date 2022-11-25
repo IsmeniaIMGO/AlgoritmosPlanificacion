@@ -14,7 +14,6 @@ def inProcesos():
         procesos.append([pName, llegada, ejecucion, 0, 0, 0, 0, 0])
 
 def mostrarResultado(resultado):
-
     # Calcular el tiempo de servicio, el indice de servicio y tiempo de espera
     for i in range(n):
         resultado[i][5] = resultado[i][4] - resultado[i][1]

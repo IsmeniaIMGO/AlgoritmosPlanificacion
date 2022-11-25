@@ -6,7 +6,8 @@ Autores son: Juan Esteban Quintero Rodriguez - David Santiago Martinez Lopez - I
 
 Documento: https://www.overleaf.com/read/nqtwpsgvwjsc
 
-Este trabajo se pudo realizar gracias a: 
+Este trabajo se pudo realizar gracias a:
+
 Diaz, J. (s/f). https://gist.github.com/FuriosoJack/d8d1d0466c101d22532e2f2f8c4e2119
 
 Highest response ratio next (HRRN) CPU scheduling.(2017, octubre 5). GeeksforGeeks. 
